@@ -1,199 +1,254 @@
-# Hi, I'm Ujjawal Sriwastava 👋
+<!-- ======================= HEADER ======================= -->
+
+<p align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=gradient&customColorList=12,20,24,30&text=Ujjawal%20Raj&fontColor=ffffff&fontSize=55&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20•%20Machine%20Learning%20•%20Django%20Developer&descAlignY=60"/>
+</p>
 
 <div align="center">
 
-### 🚀 Full Stack Developer | AI & Machine Learning Enthusiast | Python Developer
+# 👋 Hi, I'm Ujjawal Raj
 
-🎓 B.Tech Computer Science Engineering (4th Year)
+### 🚀 AI Engineer | Full Stack Developer | Machine Learning Enthusiast
 
-💻 Passionate about Building AI Applications, Full Stack Web Apps & Solving Real-world Problems
-
-🌱 Currently Learning Advanced Machine Learning, System Design & Cloud Technologies
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=26&pause=1000&color=00F5FF&center=true&vCenter=true&width=900&lines=Machine+Learning+Engineer;Python+Developer;Django+%7C+React+Developer;Computer+Vision+Enthusiast;Always+Learning+Something+New+🚀">
 
 </div>
 
 ---
 
-# 🛠️ Skills
+# 💫 About Me
 
-### 💻 Programming Languages
-- Python
-- Java
-- JavaScript
-- C++
-- SQL
+```python
+class UjjawalRaj:
 
-### 🌐 Web Development
-- Django
-- Django REST Framework
-- React.js
-- HTML5
-- CSS3
-- Tailwind CSS
-- Bootstrap
+    def __init__(self):
+        self.name = "Ujjawal Raj"
+        self.role = "AI Engineer"
+        self.language = ["Python","Java","JavaScript","C++"]
+        self.backend = ["Django","Flask","FastAPI"]
+        self.frontend = ["React","HTML","CSS","Tailwind"]
+        self.database = ["MySQL","SQLite","MongoDB"]
+        self.ml = [
+            "Machine Learning",
+            "Deep Learning",
+            "Computer Vision",
+            "OpenCV",
+            "TensorFlow",
+            "PyTorch"
+        ]
+        self.tools = [
+            "Docker",
+            "Git",
+            "Linux",
+            "Postman"
+        ]
 
-### 🤖 AI & Machine Learning
-- Machine Learning
-- Deep Learning
-- Computer Vision
-- OpenCV
-- TensorFlow
-- PyTorch
-- Scikit-Learn
-- Pandas
-- NumPy
+    def dream(self):
+        return "Building AI Products that solve real-world problems."
 
-### 🗄️ Database
-- MySQL
-- PostgreSQL
-- SQLite
-- MongoDB
-
-### ⚙️ Tools & Technologies
-- Git
-- GitHub
-- Docker
-- Linux
-- VS Code
-- Postman
+me = UjjawalRaj()
+```
 
 ---
 
-# 🚀 Featured Projects
+# 🚀 Tech Stack
+
+### Programming
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,java,cpp,javascript,c"/>
+</p>
+
+### Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,html,css,tailwind,bootstrap"/>
+</p>
+
+### Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=django,flask,nodejs"/>
+</p>
+
+### AI / ML
+
+<p>
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch"/>
+</p>
+
+### Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,sqlite,mongodb"/>
+</p>
+
+### Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,postman"/>
+</p>
+
+---
+
+# 🌟 Featured Projects
 
 ## 🤖 AI Interview Platform
 
-Built an AI-powered mock interview system where users can practice technical interviews with real-time feedback.
+✔ AI Interview Questions
 
-**Features**
-- AI Questions
-- Code Editor
-- Interview Dashboard
-- Authentication
-- Performance Analysis
+✔ Coding Round
 
-**Tech Stack**
+✔ Authentication
 
-Python • Django • React • REST API • MySQL
+✔ Performance Dashboard
 
-🔗 GitHub | Live Demo
+✔ Django REST API
 
----
+**Tech**
 
-## 🌱 SAR Image Colorization & Vegetation Analysis
-
-Deep Learning project for converting SAR satellite images into RGB images and estimating vegetation health.
-
-**Features**
-- Pix2Pix GAN
-- Vegetation Analysis
-- Image Processing
-- Land Classification
-
-**Tech Stack**
-
-Python • PyTorch • OpenCV • NumPy • Flask
-
-🔗 GitHub
+Python • Django • React • MySQL
 
 ---
 
-## 🐛 AI Pest Detection System
+## 🌱 SAR Image Colorization
 
-Developed an AI application that detects crop pests using Deep Learning.
+Pix2Pix GAN based satellite image colorization and vegetation analysis.
 
-**Features**
-- Image Classification
-- Real-time Prediction
-- Confidence Score
-- Gradio Interface
+**Tech**
 
-**Tech Stack**
-
-Python • PyTorch • OpenCV • Gradio
-
-🔗 GitHub
+PyTorch • OpenCV • Flask
 
 ---
 
-## 🛒 Django E-Commerce Website
+## 🐛 AI Pest Detection
 
-A complete E-Commerce application with authentication and payment-ready architecture.
+Deep Learning based crop pest classifier.
 
-**Features**
+**Tech**
 
-- User Login
-- Product Management
-- Cart
-- Checkout
-- Admin Dashboard
-
-**Tech Stack**
-
-Django • HTML • CSS • Bootstrap • SQLite
-
-🔗 GitHub
+PyTorch • OpenCV • Gradio
 
 ---
 
-## 📈 Student Management System
+## 🛒 Django Ecommerce
 
-A complete CRUD application developed using Django.
+Authentication
 
-**Features**
+Cart
 
-- Authentication
-- Student Records
-- Search
-- Update
-- Delete
+Checkout
 
-**Tech Stack**
-
-Python • Django • SQLite
-
-🔗 GitHub
+Admin Dashboard
 
 ---
 
-# 📊 GitHub Stats
+## 🎓 Student Management System
+
+CRUD Application
+
+Authentication
+
+Search
+
+Reports
+
+---
+
+# 📊 GitHub Statistics
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=ujjawal75&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=ujjawal75&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 ---
 
-# 🌟 What I'm Working On
+# 💻 Most Used Languages
 
-- 🤖 AI Interview Platform
-- 🧠 Machine Learning Projects
-- 🚀 Django REST APIs
-- 🌍 Full Stack Development
-- ☁️ Cloud & Docker
+<p align="center">
 
----
+<img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ujjawal75&layout=compact&theme=tokyonight&hide_border=true"/>
 
-# 📫 Connect With Me
-
-🌐 Portfolio: ujjawal049.netlify.app
-
-💼 LinkedIn: https://www.linkedin.com/in/ujjawal-raj18/
-
-📧 Email: sriwastavaujjawal20@gmail.com
-
-🐙 GitHub: https://github.com/ujjawal75
+</p>
 
 ---
 
+# 📈 Contribution Graph
 
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ujjawal75&theme=tokyo-night"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=ujjawal75&theme=algolia&no-frame=true&margin-w=15&row=2&column=4"/>
+
+</p>
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/ujjawal75/ujjawal75/output/github-contribution-grid-snake-dark.svg"/>
+
+</p>
+
+---
+
+# 📊 Visitor Count
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=ujjawal75&style=for-the-badge&color=blue"/>
+
+</p>
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://github.com/ujjawal75">
+<img src="https://skillicons.dev/icons?i=github"/>
+</a>
+
+<a href="https://www.linkedin.com/in/ujjawal-raj18/">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+<a href="mailto:sriwastavaujjawal20@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail"/>
+</a>
+
+</p>
+
+---
+
+<div align="center">
+
+## 💭 Quote
+
+### *"Build. Learn. Improve. Repeat."*
+
+⭐ If you like my work, consider giving a star to my repositories.
+
+</div>
+
+<p align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=gradient&customColorList=12,20,24,30"/>
+
+</p>
