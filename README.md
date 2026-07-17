@@ -10,7 +10,9 @@
 
 ### 🚀 AI Engineer | Full Stack Developer | Machine Learning Enthusiast
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=26&pause=1000&color=00F5FF&center=true&vCenter=true&width=900&lines=Machine+Learning+Engineer;Python+Developer;Django+%7C+React+Developer;Computer+Vision+Enthusiast;Always+Learning+Something+New+🚀">
+<p align="center">
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="350">
+</p>
 
 </div>
 
