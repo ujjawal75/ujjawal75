@@ -91,69 +91,12 @@ me = UjjawalRaj()
 
 ---
 
-# 🌟 Featured Projects
 
-## 🤖 AI Interview Platform
 
-✔ AI Interview Questions
 
-✔ Coding Round
 
-✔ Authentication
 
-✔ Performance Dashboard
 
-✔ Django REST API
-
-**Tech**
-
-Python • Django • React • MySQL
-
----
-
-## 🌱 SAR Image Colorization
-
-Pix2Pix GAN based satellite image colorization and vegetation analysis.
-
-**Tech**
-
-PyTorch • OpenCV • Flask
-
----
-
-## 🐛 AI Pest Detection
-
-Deep Learning based crop pest classifier.
-
-**Tech**
-
-PyTorch • OpenCV • Gradio
-
----
-
-## 🛒 Django Ecommerce
-
-Authentication
-
-Cart
-
-Checkout
-
-Admin Dashboard
-
----
-
-## 🎓 Student Management System
-
-CRUD Application
-
-Authentication
-
-Search
-
-Reports
-
----
 
 # 📊 GitHub Statistics
 
@@ -194,18 +137,6 @@ Reports
 <img src="https://github-profile-trophy.vercel.app/?username=ujjawal75&theme=algolia&no-frame=true&margin-w=15&row=2&column=4"/>
 
 </p>
-
----
-
-# 🐍 Contribution Snake
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/ujjawal75/ujjawal75/output/github-contribution-grid-snake-dark.svg"/>
-
-</p>
-
----
 
 # 📊 Visitor Count
 
